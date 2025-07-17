@@ -91,27 +91,6 @@ A two-player command-line version of the classic Tic Tac Toe game.
 
 A simple application for managing tasks, allowing users to add, mark as complete, and delete items from a to-do list.
 
-## How to Run a Project
-
-To run any of these projects:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-    ```
-    (Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name.)
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd YOUR_REPO_NAME/PROJECT_FOLDER_NAME
-    ```
-    (Replace `PROJECT_FOLDER_NAME` with the specific project you want to run, e.g., `ATM Simulation`).
-
-3.  **Run the Python script:**
-    ```bash
-    python your_project_main_file.py
-    ```
-    (The main file might be `main.py`, `app.py`, or similar. Check the specific project folder for the correct file name.)
 
 ## Technologies Used
 
@@ -130,9 +109,9 @@ I plan to continue improving and expanding this collection of projects. Potentia
 
 If you have any questions, feedback, or just want to connect, feel free to reach out!
 
-* **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-* **LinkedIn:** [YOUR_LINKEDIN_PROFILE_URL] (Optional)
-* **Email:** [YOUR_EMAIL_ADDRESS] (Optional)
+* **GitHub:** [Shanyu-pilli](https://github.com/Shanyu-pilli)
+* **LinkedIn:** [www.linkedin.com/in/shanyu-pilli-889b1a287] (Optional)
+* **Email:** [shanyuseshu@gmail.com] (Optional)
 
 ---
 *This README.md was generated based on the project list provided.*
